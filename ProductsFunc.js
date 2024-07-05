@@ -171,7 +171,7 @@ const Products = () => {
       </form>
       <br></br>
 
-      <table border="2" style={{ width: "60%" }}>
+      <table classname="table table-bordered" style={{ width: "60%" }}>
         <thead>
           <tr>
             <th>Product ID</th>
